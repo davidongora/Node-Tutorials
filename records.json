@@ -1,0 +1,51 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001"
+      },
+      "interests": [
+        "reading",
+        "traveling",
+        "cooking"
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Elm Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001"
+      },
+      "interests": [
+        "hiking",
+        "painting",
+        "photography"
+      ]
+    },
+    {
+      "name": "David Johnson",
+      "age": 35,
+      "email": "davidjohnson@example.com",
+      "address": {
+        "street": "789 Oak Drive",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601"
+      },
+      "interests": [
+        "music",
+        "sports",
+        "gardening"
+      ]
+    }
+  ]
+  
